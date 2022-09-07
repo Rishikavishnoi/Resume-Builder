@@ -11,4 +11,7 @@ Working
 # [DEMO](https://rishikavishnoi.github.io/Resume-Builder/)  
 ** Note :- profile photo field is required **
 
+![screenshot](ss.png)
+![screenshot](ss2.png)
+
 
