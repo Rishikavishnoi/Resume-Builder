@@ -4,9 +4,9 @@ You can also  print it also in pdf format
 Tech used :- HTML , CSS , JAVASCRIPT ,BOOTSTRAP
 
 Working 
-step 1 :- Fill the form 
-Step 2 :- Click to Generate Resume
-Step 3 :- Click to print and Download it 
+-  Fill the form 
+-  Click to Generate Resume
+-  Click to print and Download it 
 
 # [DEMO](https://rishikavishnoi.github.io/Resume-Builder/)  
 ** Note :- profile photo field is required **
