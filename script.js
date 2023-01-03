@@ -98,7 +98,7 @@ function generateResume() {
   document.getElementById("cv-template").style.display = "block";
 }
 
-//printing
+//printing the resume
 
 function printResume() {
   console.log("clicked");
